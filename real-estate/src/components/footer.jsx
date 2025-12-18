@@ -9,7 +9,7 @@ const Footer = () => {
       items-start'>
         <div className='w-full md:w-1/3 mb-8 md:mb-0'>
             <img src={assets.logo_dark} alt="" />
-            <p className='text-gray-400 mt-4'>Lorem Ipsum is simply dummy ttext of the printing and
+            <p className='text-gray-400 mt-4'>Lorem Ipsum is simply dummy text of the printing and
                 typesetting industry.Lorem Ipsum has been the industry's
                 standard dummy text.</p>
         </div>
@@ -31,7 +31,7 @@ const Footer = () => {
          <h3 className='text-white text-lg font-bold
             mb-4'>Subscriibe to our newsletter</h3>
             <p className='text-gray-400 mb-4 max-w-80'>The latest news,
-                article, and resources ,sent to your inbox weekly.
+                article, and resources sent to your inbox weekly.
             </p>
             <div className='flex gap-2'>
                 <input type="email" placeholder='Enter your email'
